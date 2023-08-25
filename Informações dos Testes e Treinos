@@ -1,0 +1,183 @@
+-----1-----
+TREINAMENTO
+Imagens Postivas: 90% de 17585 - 80x29 120x39 240x78 360x107 480x156
+Imagens Negativas: 22458 - todas 240x78
+Feature Type: LBP
+StageNum: 12
+TESTE
+Arquivo Cascade: cascadeImagensStreetView17585P22458N 14.07.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou 1502 com pouquíssimos falsos positivos
+DataSet Monitoring e Parking: De 3517 imagens, achou 3563 com muitos falso positivos 
+
+-----2-----
+TREINAMENTO
+Imagens Postivas: 90% de 28136 - 40x13 80x29 120x39 240x78 360x107 480x156 600x195 800x260
+Imagens Negativas: 25193 - todas 240x78
+Feature Type: LBP
+StageNum: 14
+TESTE
+Arquivo Cascade: cascadeImagensStreetView28136P25193N 20.07.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou 1788. Falsos positivos não detectados
+DataSet Monitoring e Parking: De 3517 imagens, achou 2751 com muitos falso positivos 
+
+-----3-----
+TREINAMENTO
+Imagens Postivas: 90% de 31653 - 40x13 80x29 120x39 240x78 360x107 480x156 600x195 800x260 3264x1060
+Imagens Negativas: 30000 - todas 240x78
+Feature Type: LBP
+StageNum: 14
+TESTE
+Arquivo Cascade: cascadeImagensStreetView31653P30000N 20.07.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou 1973. Falsos positivos não detectados
+DataSet Monitoring e Parking: De 3517 imagens, achou 2771 com muitos falso positivos 
+
+-----4-----
+TREINAMENTO
+Imagens Postivas: 90% de 38683 - 40x13 80x29 120x39 240x78 360x107 480x156 600x195 800x260 1600x520 2200x715 3264x1060
+Imagens Negativas: 20000 - todas 240x78
+Feature Type: LBP
+StageNum: 14
+TESTE
+Arquivo Cascade: cascadeImagensStreetView38683P20000N 22.07.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou 1806. Falsos positivos não detectados
+DataSet Monitoring e Parking: De 3517 imagens, achou 3008 com muitos falso positivos 
+
+-----5-----
+TREINAMENTO
+Imagens Postivas: 90% de 38683 - 40x13 80x29 120x39 240x78 360x107 480x156 600x195 800x260 1600x520 2200x715 3264x1060
+Imagens Negativas: 35658 - todas 240x78
+Feature Type: LBP
+TESTE
+Arquivo Cascade: cascadeImagensStreetView38683P35658N 24.07.2021.xml.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou 1649. Falsos positivos não detectados
+DataSet Monitoring e Parking: De 3517 imagens, achou 2223 com muitos falso positivos 
+
+-----6-----
+TREINAMENTO
+Imagens Postivas: 90% de 38681 - 20x7 40x13 80x29 120x39 180x59 240x78 360x107 420x137 480x156 600x195 800x260
+Imagens Negativas: 30000 - todas 240x78
+Feature Type: LBP
+TESTE
+Arquivo Cascade: cascadeImagensStreetView38683P3000N 26.07.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou 1736 . Com Falsos positivos
+DataSet Monitoring e Parking: De 3517 imagens, achou 2962 com muitos falso positivos 
+
+
+-----7----- *************************
+TREINAMENTO
+Imagens Postivas: 90% de 21100 - 40x13 80x29 120x39 180x59 240x78 360x107
+Imagens Negativas: 15000 - todas 120x19
+Feature Type: LBP
+TESTE
+Arquivo Cascade: cascadeImagensStreetView21100P15000N 28.07.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou 2102 . Com Falsos positivos
+DataSet Monitoring e Parking: De 3517 imagens, achou 8638 com muitos falso positivos 
+
+-----8----- 
+TREINAMENTO
+Imagens Postivas: 90% de 21100 - 40x13 80x29 120x39 180x59 240x78 360x107 
+Imagens Negativas: 30000 - todas 120x19
+Feature Type: LBP
+TESTE
+Arquivo Cascade: cascadeImagensStreetView21100P30000N 04.08.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou  1978. Com raros falsos positivos.
+DataSet Monitoring e Parking: De 3517 imagens, achou 3085 com muitos falso positivos 
+
+-----9----- 
+TREINAMENTO
+Imagens Postivas: 90% de 26615 - 40x13 80x29 120x39 180x59 240x78 360x107 420x137
+Imagens Negativas: 35658 - todas 120x19
+Feature Type: LBP
+TESTE
+Arquivo Cascade: cascadeImagensStreetView26615P35658N 10.08.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou  1893. Falsos positivos não detectados.
+DataSet Monitoring e Parking: De 3517 imagens, achou 3341 com muitos falso positivos 
+
+-----10 HAAR----- 
+TREINAMENTO
+Imagens Postivas: 90% de 26615 - 40x13 80x29 120x39 180x59 240x78 360x107 420x137
+Imagens Negativas: 35658 - todas 120x19
+Feature Type: HAAR
+TESTE
+Arquivo Cascade: HAARcascadeImagensStreetView26615P35658N 02.09.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou 2452. POUQUISSIMOS(3) Falsos positivos não detectados.
+DataSet Monitoring e Parking: De 3517 imagens, achou 8242 com muitos falso positivos 
+
+-----10 HAAR RODANDO NO PYTHON Read_Plates_trello ----- 
+TREINAMENTO
+Imagens Postivas: 90% de 26615 - 40x13 80x29 120x39 180x59 240x78 360x107 420x137
+Imagens Negativas: 35658 - todas 120x19
+Feature Type: HAAR
+TESTE
+Arquivo Cascade: HAARcascadeImagensStreetView26615P35658N 28.09.2021.xml
+Minimum Neighbors: 1
+RESULTADO
+DataSet Monitoring: De 2965 imagens, achou . POUQUISSIMOS(3) Falsos positivos não detectados.
+DataSet Monitoring e Parking: De 3517 imagens, achou 8242 com muitos falso positivos 
+
+-------------------------------------------------------------------------------
+scale: 1.1
+nighbors: 3
+min/max: 1-1-5555-5555
+result: 217
+
+scale: 1.1
+nighbors: 3
+min/max: 1-1-300-300
+result: 217
+
+scale: 1.1
+nighbors: 3
+min/max: 1-1-5000-5000
+result: 217
+
+scale: 1.1
+nighbors: 1
+min/max: 1-1-5000-5000
+result: 1132
+
+scale: 1.1
+nighbors: 1
+min/max: 1-1-5555-5555
+result: 1132
+
+scale: 1.1
+nighbors: 1
+min/max: 1-1-7000-7000
+result: 1132
+
+scale: 1.1
+nighbors: 1
+min/max: 1-1-300-300
+result: 1132
+
+scale: 1.2
+nighbors: 1
+min/max: 1-1-300-300
+result: 555
+
+scale: 1.1
+nighbors: 2
+min/max: 1-1-300-300
+result: 560
+
